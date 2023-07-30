@@ -1,12 +1,19 @@
-Hi, I’m @Rozario29
+Hi, I’m @Rozario29 a Data Analyst at Media.net
 
-Graduated as a mechanical engineer, worked as a technical sales executive at ASSA ABLOY
-
+**Backstory:**
+Graduated as a mechanical engineer, worked as a technical sales executive at ASSA ABLOY. 
 Got fascinated with Excel sheets used for data exploration and thus was introduced to Data Analytics
 
-I’m interested in data analytics, having completed a few courses on PostgreSQL , Tableau and Excel. Currently learning to build projects and leveraging them for a job role as a Junior Data Analyst.
+**Objective:**
+To be a data expert and dabble in all fields of data, be it data engineering , data science , ML and AI
 
-You can reach me at
+**Skillsets:**
+PostgreSQL , Microsoft SQL Server, Hive Sql ,Tableau and Excel. I work extensively with ctes in both **Hive SQL** and** Microsoft Sql server** as well as **Excel with Power Query** and **DAX Studio** for **data cleaning and data exploratory analysis** 
+
+**Learning:**
+Already have a little hands on with **Python and Pandas dataframes**, currently learning Power BI and its advanced features
+
+**You can reach me at:**
 
 Instagram - @rozariodsouza
 
@@ -14,7 +21,7 @@ LinkedIN - [Rozario D'souza](https://www.linkedin.com/in/rozario-d-souza-8552231
 
 Email - rozariodsouza29@gmail.com 
 
-STAY SAFE . STAY HAPPY . KEEP MOVING FORWARD 
+_**Onwards and upwards !**_
 
 <!---
 Rozario29/Rozario29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
