@@ -8,7 +8,7 @@ Got fascinated with Excel sheets used for data exploration and thus was introduc
 To be a data expert and dabble in all fields of data, be it data engineering , data science , ML and AI
 
 **Skillsets:**
-PostgreSQL , Microsoft SQL Server, Hive Sql ,Tableau and Excel. I work extensively with ctes in both **Hive SQL** and** Microsoft Sql server** as well as **Excel with Power Query** and **DAX Studio** for **data cleaning and data exploratory analysis** 
+PostgreSQL , Microsoft SQL Server, Hive Sql ,Tableau and Excel. I work extensively with ctes in both **Hive SQL** and **Microsoft Sql server** as well as **Excel with Power Query** and **DAX Studio** for **data cleaning and data exploratory analysis** 
 
 **Learning:**
 Already have a little hands on with **Python and Pandas dataframes**, currently learning Power BI and its advanced features
